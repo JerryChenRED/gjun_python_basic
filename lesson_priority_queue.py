@@ -31,3 +31,5 @@ if __name__ == "__main__":
     member_priority_queue.trace_overall()
     member_priority_queue.enqueue("Jayce")
     member_priority_queue.trace_overall()
+
+# thread-safe
