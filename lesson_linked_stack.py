@@ -72,7 +72,6 @@ if __name__ == "__main__":
     linked_stack.push(116)
     print("Peek: ", linked_stack.peek())
     linked_stack.trace_overall()
-    linked_stack.size()
     print("Pop: ", linked_stack.pop())
     print("Pop: ", linked_stack.pop())
     print("Peek: ", linked_stack.peek())
